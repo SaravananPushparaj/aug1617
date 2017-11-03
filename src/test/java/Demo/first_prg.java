@@ -8,6 +8,7 @@ public class first_prg {
 		System.out.println("Hi");
 		System.out.println("Hello");
 		System.out.println("Sachin");
+		System.out.println("Ind");
 
 	}
 
